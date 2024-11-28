@@ -1,0 +1,14 @@
+{
+  "name": "pstmail",
+  "version": "1.0.0",
+  "description": "This is an old project idea resurrected.  I wanted to have an online store for old PST file imports that could be used similar to gmail.  This version is just a cli to extract all pst content into eml.",
+  "main": "convert.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael Coleman",
+  "license": "ISC",
+  "dependencies": {
+    "pst-extractor": "^1.10.0"
+  }
+}
